@@ -1,3 +1,7 @@
+![image](https://github.com/dianagorescu/Diamonds-vs-Hexagons/assets/94400419/366a342b-05ff-4823-90c7-2865f76b417c)
+![image](https://github.com/dianagorescu/Diamonds-vs-Hexagons/assets/94400419/f36a7cc4-ae24-46c7-8385-0a1bfec96a44)
+![image](https://github.com/dianagorescu/Diamonds-vs-Hexagons/assets/94400419/46518806-8922-4867-aced-54e016230768)
+
 # GFX Framework
 
 ## :sparkles: Introduction
